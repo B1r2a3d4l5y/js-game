@@ -1,6 +1,8 @@
 # js text game
 This is fun text browser game where all your choices matter
 How to get this fun game? You can find it hoisted on my Github Pages or you can download the code link from my Github page
+
+
 What I used to buid this game:
 
 HTML
